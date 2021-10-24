@@ -1,3 +1,5 @@
+//Easy 10/10 Less than 30min
+
 #include <iostream>
 #include <fstream>
 

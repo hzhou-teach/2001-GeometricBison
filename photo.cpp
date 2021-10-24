@@ -1,3 +1,5 @@
+// 10/10 Easy logic less than 30min 
+
 #include <iostream>
 #include <fstream>
 
